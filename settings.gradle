@@ -1,0 +1,1 @@
+include ':t_adapter', ':t_eventbus', ':t_oschina', ':osc_app'

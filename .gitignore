@@ -1,0 +1,9 @@
+/.idea
+/.gradle
+/gradle
+/build
+/local.properties
+/xDemo.iml
+/t_eventbus/*.iml
+/t_adapter/*.iml
+/t_oschina/*.iml
